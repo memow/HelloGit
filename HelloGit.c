@@ -1,6 +1,6 @@
-#include "stdio.h"
+#include <iostream>
 
 void main()
 {
-  printf("Hello Git!");
+  cout<<"Hello Git!"<<endl;
 }
